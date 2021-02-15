@@ -1,2 +1,2 @@
 # Deep-Learning
-Welcome to Simple Deep Learning Models using Python
+ Deep Learning Models using Python for image classification
